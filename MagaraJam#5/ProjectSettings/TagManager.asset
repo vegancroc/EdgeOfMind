@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - glass
+  - laser
+  - Enemy
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - Player
+  - Enemy
+  - white
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background-back-back
+    uniqueID: 1469902173
+    locked: 0
+  - name: Background-back
+    uniqueID: 1811905879
+    locked: 0
+  - name: background
+    uniqueID: 2902388125
+    locked: 0
+  - name: Building
+    uniqueID: 3711235337
+    locked: 0
+  - name: Level
+    uniqueID: 348866353
+    locked: 0
+  - name: Player
+    uniqueID: 3841542231
+    locked: 0
+  - name: Level-front
+    uniqueID: 3278616611
+    locked: 0

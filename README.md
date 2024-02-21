@@ -1,0 +1,2 @@
+# MagaraJam
+MagaraJam game developing
