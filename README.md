@@ -1,2 +1,2 @@
 # MagaraJam
-MagaraJam game developing
+All the source files for the "Edge of Mind" 
